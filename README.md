@@ -10,5 +10,5 @@ Este projeto foi desenvolvido utilizando apenas com tecnologias **frontend**, co
 
 ## 📑 Como Visualizar o Projeto
  **Via GitHub Pages (ou outro serviço de hospedagem)**:
-- O projeto está hospedado no [link-aqui](#), basta acessar pelo navegador.
+- O projeto está hospedado no [link-aqui](https://diaseduarda01.github.io/aquatech/), basta acessar pelo navegador.
    
