@@ -1,6 +1,6 @@
 # Aquatech 💧
 
-Este projeto foi desenvolvido utilizando apenas tecnologias **frontend**, com foco em design moderno e responsivo.
+Este projeto foi desenvolvido utilizando apenas com tecnologias **frontend**, com foco em design moderno e responsivo. Com o objetivo de explorar os conhecimentos.
 
 ## 🚀 Tecnologias Utilizadas
 
